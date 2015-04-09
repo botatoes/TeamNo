@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2013
+Project("{D1B25258-EBBE-EEF8-796B-50D3CEBA00F9}") = "MacProject", "MacProject.vcxproj", "{DDC38E90-2538-A5E2-591C-DC5755659284}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDC38E90-2538-A5E2-591C-DC5755659284}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DDC38E90-2538-A5E2-591C-DC5755659284}.Debug|Win32.Build.0 = Debug|Win32
+		{DDC38E90-2538-A5E2-591C-DC5755659284}.Release|Win32.ActiveCfg = Release|Win32
+		{DDC38E90-2538-A5E2-591C-DC5755659284}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
